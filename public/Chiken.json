@@ -1,0 +1,79 @@
+[
+    {
+      "id": "1",
+      "image": "https://i.ibb.co/v1gXztP/images.jpg ",
+      "name": "Classic Margherita Pizza",
+      "description": "Traditional Italian pizza with tomato sauce, mozzarella cheese, and fresh basil leaves",
+      "ingredients": [
+        "1 pizza dough",
+        "2 potatoes"
+    
+        
+        
+      ],
+      "preparation_time": "45 minutes",
+      "calories": "300 "
+    },
+    {
+      "id": "2",
+      "image": "https://i.ibb.co/PYGVxYw/top-view-delicious-fried-chicken-with-fresh-vegetables-greens-dark-desk.jpg",
+      "name": "Chicken Caesar Salad",
+      "description": "Classic salad with grilled chicken, romaine lettuce, croutons, Parmesan cheese, and Caesar dressing",
+      "ingredients": [
+        "2 chicken breasts"
+    
+      ],
+      "preparation_time": "30 minutes",
+      "calories": "400 "
+    },
+    {
+      "id": "3",
+      "image": "https://i.ibb.co/jgydzrP/images-1.jpg ",
+      "name": "Vegetable Curry",
+      "description": "A flavorful curry made with mixed vegetables and aromatic spices",
+      "ingredients": [
+        "2 potatoes"
+      
+      ],
+      "preparation_time": "40 minutes",
+      "calories": "250"
+    },
+    {
+      "id": "4",
+      "image": "https://i.ibb.co/jR2ts2t/download.jpg ",
+      "name": "Pasta Primavera",
+      "description": "Springtime pasta dish with assorted vegetables and a light olive oil-based sauce",
+      "ingredients": [
+        "200g pasta"
+  
+      ],
+      "preparation_time": "35 minutes",
+      "calories": "350 "
+    },
+    {
+      "id": "5",
+      "image": "https://i.ibb.co/V9fLVkq/grilled-chicken-with-onion-ketchup.jpg",
+      "name": "Grilled Steak with Roasted Potatoes",
+      "description": "Juicy grilled steak served with crispy roasted potatoes seasoned with herbs",
+      "ingredients": [
+        "2 steaks"
+
+ 
+      ],
+      "preparation_time": "50 minutes",
+      "calories": "500 "
+    },
+    {
+      "id": "6",
+      "image": "https://i.ibb.co/4SkGWP2/grilled-chicken-with-pepper-tomato.jpg",
+      "name": "Berry Smoothie Bowl",
+      "description": "Refreshing smoothie bowl topped with assorted berries, granola, and honey",
+      "ingredients": [
+        "1 cup mixed berries"
+ 
+      ],
+      "preparation_time": "10 minutes",
+      "calories": "200"
+    }
+  ]
+  
